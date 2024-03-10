@@ -35,7 +35,7 @@ function CreatureAvatar({
         }} />
     : name
     ? <Avatar name={name} size={size} bg={bg} fontSize={fontSizeName} />
-    : <Avatar icon={icon} size={size} bg={bg} />
+    : <Avatar size={size} bg={bg} />
 };
 
 const MemoizedCreatureAvatar = React.memo(CreatureAvatar);
