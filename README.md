@@ -12,7 +12,7 @@ The project aims to improve retail by creating more personal, convenient and eff
 
 ### More information:
 
-The "ai-store-consultant" project is built using Deep Foundation technology, which already has many APIs available for use in regular projects.
+The "ai-store-consultant" project is built using the open technology Deep Foundation, which I am involved in developing, which already has many APIs available for use in regular projects.
 
 Deep Foundation uses a system based on PostgreSQL via Hasura, working with ternary and dual networking. It allows you to manage data and code through universal data exchange, with short-term interaction between different programs and languages. This approach ensures dynamic programming and data exchange, creating more universal and flexible software. More information can be found on the Deep Foundation page.
 
