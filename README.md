@@ -1,6 +1,6 @@
-### Project name: ai-store-consultant
+## Project name: ai-store-consultant
 
-## Description:
+### Description:
 
 The "ai-store-consultant" project was developed as part of a university practice and represents an advanced solution for improving the shopping experience. Based on artificial intelligence technologies and GPT-4 algorithms, this assistant helps customers choose the perfect products, providing personalized recommendations based on their needs and preferences.
 
